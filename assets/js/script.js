@@ -23,3 +23,7 @@ $("#hr2 .description").val(localStorage.getItem("hr2"));
 $("#hr3 .description").val(localStorage.getItem("hr3"));
 $("#hr4 .description").val(localStorage.getItem("hr4"));
 $("#hr5 .description").val(localStorage.getItem("hr5"));
+
+function hourNow() {
+    var presentHour = moment().hour();
+}
