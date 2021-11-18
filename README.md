@@ -3,7 +3,8 @@
   * [Usage](#usage)
   * [Questions](#questions)
   * [License](#license)
-  
+  ![Work Day Schedul](https://user-images.githubusercontent.com/83180774/142318201-b46e1e15-b569-4895-85a0-bf629ba1ba1a.png)
+
 
   # Usage
     You may save the code and launch the page in order to update tasks.
